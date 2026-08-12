@@ -21,8 +21,11 @@ Les données locales restent dans Chrome jusqu’à leur suppression par l’uti
 ## Permissions
 
 - `storage` : conserver localement les réglages, l’historique et les analyses.
-- `tabs` : ouvrir la plateforme choisie dans un nouvel onglet et orchestrer la recherche visuelle demandée.
 - Accès à Vinted et Leboncoin : détecter les annonces visibles, afficher le bouton Lookalike et exécuter la recherche ou l’analyse demandée.
+
+## Utilisation limitée des données
+
+L’utilisation par Lookalike des informations reçues respecte la Politique relative aux données utilisateur du Chrome Web Store, y compris ses exigences d’utilisation limitée. Les données sont utilisées uniquement pour fournir les fonctionnalités de recherche visuelle, d’historique et d’analyse de prix décrites à l’utilisateur. Elles ne servent jamais à la publicité personnalisée, ne sont pas vendues et ne sont pas consultées par des personnes.
 
 ## Contact
 
